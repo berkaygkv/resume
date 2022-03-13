@@ -65,18 +65,15 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: LSTM Autoencoder Neural Network to detect changepoints in Bitcoin prices
-        link: https://github.com/berkaygkv/LSTM_Autoencoder
-        link_text: Project GitHub Link
+        title: LSTM Autoencoder
+        link: https://nbviewer.org/github/berkaygkv/LSTM_Autoencoder/blob/master/anomaly_detection_nb.ipynb
+        link_text: Nbviewer link for the notebook
         additional_links:
-          - title:  Nbviewer version
+          - title:  GitHub Link
             icon: fab fa-github
-            url: https://nbviewer.org/github/berkaygkv/LSTM_Autoencoder/blob/master/anomaly_detection_nb.ipynb
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/berkaygkv/LSTM_Autoencoder 
         quote: >
-          Short overview of the project (optional)
+          LSTM Autoencoder Neural Network to detect changepoints in Bitcoin prices
         description: | # this will include new lines to allow paragraphs
           - The model is built in Python using Tensorflow/Keras backend, 
           - I have assembled LSTM network into an Autoencoder architecture with customizable layer parameters,
