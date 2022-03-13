@@ -53,8 +53,10 @@ linkedin_username: berkaygkv
 about_profile_image: images/linkedin profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a junior data scientist who has a huge interest in integrating programming skills into machine learning problems using <mark>Python</mark> and Python-based frameworks like 
-  <mark>Pandas</mark>, <mark>Tensorflow</mark> etc. I'm also interested in MLOps/Engineering stuff, trying to get a broader sense of how to implement technologies like Docker, Kubernetees, Airflow to ML projects 
-  . I have 1 year experience in freelancing through [Upwork](https://www.upwork.com/freelancers/~01b59d4798b680689d) doing various kinds of
+  <mark>Pandas</mark>, <mark>Tensorflow</mark> etc. I love implementing Abstraction to my work when I code.
+  
+  I'm also interested in MLOps/Engineering stuff, trying to get a broader sense of how to implement technologies like Docker, Kubernetees, Airflow to ML projects. I have 1 year 
+  experience in freelancing through [Upwork](https://www.upwork.com/freelancers/~01b59d4798b680689d) doing various kinds of
   jobs including Automation, Web Scraping, I have been working as a full-time jr. data scientist for about a year now. I've got an MSc. in Cognitive Psychology. 
 
 content:
