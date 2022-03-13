@@ -65,23 +65,20 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: LSTM Autoencoder Neural Network to detect changepoints in Bitcoin prices
-        link: https://github.com/berkaygkv/LSTM_Autoencoder
-        link_text: Project GitHub Link
+        title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
         additional_links:
-          - title:  Nbviewer version
-            icon: fab fa-nbviewer
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-        - The model is built in Python using Tensorflow/Keras backend, 
-        - I have assembled LSTM network into an Autoencoder architecture with customizable layer parameters,
-        - The data is being smoothed by using Kalman Filter in the preprocessing phase to make the model more sensitive to trend changes,
-        - All of the required operations for preprocessing, training and prediction can be handled simply by creating a Keras inherited Python instance. 
           Short overview of the project (optional)
-
-
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
