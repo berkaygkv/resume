@@ -72,8 +72,8 @@ content:
           - title:  Nbviewer version
             icon: fab fa-nbviewer
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: > LSTM Autoencoder
-
+        quote: >
+          Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
         - The model is built in Python using Tensorflow/Keras backend, 
         - I have assembled LSTM network into an Autoencoder architecture with customizable layer parameters,
