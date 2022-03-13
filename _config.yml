@@ -16,7 +16,7 @@ website: https://www.upwork.com/freelancers/~01b59d4798b680689d
 website_title: Upwork
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: berkaygkv
