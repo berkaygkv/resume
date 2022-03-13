@@ -12,7 +12,7 @@ email: berkaygokova@gmail.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: upwork.com/freelancers/~01b59d4798b680689d
+# website: upwork.com/freelancers/~01b59d4798b680689d
 # website_title: Upwork
 
 # Dark Mode (true/false/never)
@@ -53,8 +53,8 @@ linkedin_username: berkaygkv
 about_profile_image: images/linkedin profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a junior data scientist, formerly a cognitive psychologist, who has a huge interest in integrating programming skills into machine learning problems using <mark>Python</mark> and Python-based frameworks like 
-  Pandas, Tensorflow etc. I'm also interested in MLOps/Engineering stuff, trying to get a broader sense of how to implement them to ML projects 
-  (e.g., Docker, Kubernetees, Airflow). I have 1 year experience in freelancing through [Upwork](https://www.upwork.com/freelancers/~01b59d4798b680689d) doing various kinds of
+  <mark>Pandas</mark>, <mark>Tensorflow</mark> etc. I'm also interested in MLOps/Engineering stuff, trying to get a broader sense of how to implement technologies like Docker, Kubernetees, Airflow to ML projects 
+  . I have 1 year experience in freelancing through [Upwork](https://www.upwork.com/freelancers/~01b59d4798b680689d) doing various kinds of
   jobs including Automation, Web Scraping etc., I have been working as a full-time jr. data scientist for about a year now. 
 
 content:
