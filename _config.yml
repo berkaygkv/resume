@@ -36,7 +36,7 @@ linkedin_username: berkaygkv
 # Additional icon links
 additional_links:
 - title: Upwork
-  icon: https://img.icons8.com/ios-filled/50/000000/upwork.png
+  icon: code #Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
   url: https://www.upwork.com/freelancers/~01b59d4798b680689d
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
