@@ -71,11 +71,16 @@ content:
         additional_links:
           - title:  Nbviewer version
             icon: fab fa-nbviewer
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
         - The model is built in Python using Tensorflow/Keras backend, 
         - I have assembled LSTM network into an Autoencoder architecture with customizable layer parameters,
         - The data is being smoothed by using Kalman Filter in the preprocessing phase to make the model more sensitive to trend changes,
         - All of the required operations for preprocessing, training and prediction can be handled simply by creating a Keras inherited Python instance. 
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+
 
   - title: Experience
     layout: list
