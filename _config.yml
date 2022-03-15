@@ -69,7 +69,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: LSTM Autoencoder
         link: https://nbviewer.org/github/berkaygkv/LSTM_Autoencoder/blob/master/anomaly_detection_nb.ipynb
-        link_text: Nbviewer link for the notebook
+        link_text: Nbviewer notebook
         additional_links:
           - title:  GitHub Link
             icon: fab fa-github
@@ -88,7 +88,15 @@ content:
         title: Vestel Trade Co.
         sub_title: Data Scientist
         caption: 2021 April - Present
-        # link: Link to company (optional)
+      - layout: right
+        title: Freelancer in Upwork
+        sub_title: Python Programmer / Data Analyst
+        caption: 2020 February - 2021 April
+        link: https://bit.ly/2TmVWfc
+      - layout: right
+        title: Mentalift Sports Psychology Consultancy
+        sub_title: Data Scientist
+        caption: 2017 - 2018
         # quote: >
         #   Short description of the company (optional)
         # description: | # this will include new lines to allow paragraphs
