@@ -84,7 +84,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Vestel Trade Co.
         sub_title: Data Scientist
         caption: 2021 April - Present
@@ -93,7 +93,7 @@ content:
         sub_title: Python Programmer / Data Analyst
         caption: 2020 February - 2021 April
         link: https://bit.ly/2TmVWfc
-      - layout: right
+      - layout: left
         title: Mentalift Sports Psychology Consultancy
         sub_title: Data Scientist
         caption: 2017 - 2018
