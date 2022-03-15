@@ -102,9 +102,9 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
         title: Custom-made Data Science Toolbox
-        link: 
+        link: https://pypi.org/project/vdst-toolbox/
         link_text: PyPi Package
-        additional_links: https://pypi.org/project/vdst-toolbox/
+        additional_links:
           - title:  GitHub Link
             icon: fab fa-github
             url: https://github.com/berkaygkv/vdst-toolbox
