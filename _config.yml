@@ -92,13 +92,13 @@ content:
         #     icon: fab fa-github
         #     url: https://github.com/berkaygkv/LSTM_Autoencoder 
         quote: >
-          An end-to-end ML pipeline that; monitors/stores new coming used car ads, predicts the market price using XGBoost, and alerts when a significantly lower price encountered. 
+          An end-to-end ML pipeline that; monitors/stores new coming used car ads, predicts the market price using XGBoost, and alerts when a significantly lower price, than the predicted value, encountered. 
         description: | # this will include new lines to allow paragraphs
           - The used car market website was being monitored 7/24, 
           - New coming ads were stored into SQLite database,
           - An XGBoost model was built to predict prices,
-          - Once the script detects a new ad with a significantly low value, it sends a notification through Slack Channel with the corresponding ad link and info,
-          - The whole project is hosted in Heroku Platfrom
+          - A notification system was build using Slack API to send notification once an ad with significantly lower price is detected,
+          - The whole project is hosted in Heroku Platfrom.
   - title: Experience
     layout: list
     content:
