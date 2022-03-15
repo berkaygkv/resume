@@ -100,12 +100,12 @@ content:
           - A notification system was build using Slack API to send notification once an ad with significantly lower price is detected,
           - The whole project is hosted in Heroku Platfrom.
         title: Custom-made Data Science Toolbox
-        # link: https://nbviewer.org/github/berkaygkv/LSTM_Autoencoder/blob/master/anomaly_detection_nb.ipynb
-        # link_text: Nbviewer notebook
-        # additional_links:
-        #   - title:  GitHub Link
-        #     icon: fab fa-github
-        #     url: https://github.com/berkaygkv/LSTM_Autoencoder 
+        link: 
+        link_text: PyPi Package
+        additional_links: https://pypi.org/project/vdst-toolbox/
+          - title:  GitHub Link
+            icon: fab fa-github
+            url: https://github.com/berkaygkv/vdst-toolbox
         quote: >
           Custom-made Data Science Toolbox Python Package dedicated to Vestel Team 
         description: | # this will include new lines to allow paragraphs
