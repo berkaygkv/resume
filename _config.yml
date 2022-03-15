@@ -100,7 +100,7 @@ content:
           - A notification system was build using Slack API to send notification once an ad with significantly lower price is detected,
           - The whole project is hosted on Heroku Platfrom.
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border:   # Value of `weak` will display a weak border below this item. # Any 
         title: Custom-made Data Science Toolbox
         link: https://pypi.org/project/vdst-toolbox/
         link_text: PyPi Package
