@@ -98,7 +98,7 @@ content:
           - New coming ads were stored into SQLite database,
           - An XGBoost model was built to predict prices,
           - A notification system was build using Slack API to send notification once an ad with significantly lower price is detected,
-          - The whole project is hosted in Heroku Platfrom.
+          - The whole project is hosted on Heroku Platfrom.
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
         title: Custom-made Data Science Toolbox
