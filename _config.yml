@@ -99,6 +99,20 @@ content:
           - An XGBoost model was built to predict prices,
           - A notification system was build using Slack API to send notification once an ad with significantly lower price is detected,
           - The whole project is hosted in Heroku Platfrom.
+        title: Custom-made Data Science Toolbox
+        # link: https://nbviewer.org/github/berkaygkv/LSTM_Autoencoder/blob/master/anomaly_detection_nb.ipynb
+        # link_text: Nbviewer notebook
+        # additional_links:
+        #   - title:  GitHub Link
+        #     icon: fab fa-github
+        #     url: https://github.com/berkaygkv/LSTM_Autoencoder 
+        quote: >
+          Custom-made Data Science Toolbox Python Package dedicated to Vestel Team 
+        description: | # this will include new lines to allow paragraphs
+          - Very simple project tailored to meet the Team's specific needs,
+          - A PyPi Package can be installed using pip,
+          - The toolbox contains Radar Chart Drawer useful especially for clustered data and a Descriptive Analysis tool, 
+          - More tools will be added.
   - title: Experience
     layout: list
     content:
