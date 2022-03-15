@@ -84,11 +84,11 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: left
+      - layout: top-left
         title: Vestel Trade Co.
         sub_title: Data Scientist
         caption: 2021 April - Present
-      - layout: right
+      - layout: top-right
         title: Freelancer in Upwork
         sub_title: Python Programmer / Data Analyst
         caption: 2020 February - 2021 April
@@ -104,10 +104,14 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
         title:  Keele University
         sub_title: MSc. in Cognitive Psychology
         caption: 2018 - 2019
+      - layout: top-right
+        title:  Sabanci University
+        sub_title: BA in Psychology
+        caption: 2012 - 2017
         # quote: >
         #   Short institution or course description (optional)
         # description: | # this will include new lines to allow paragraphs
