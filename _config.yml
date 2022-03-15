@@ -122,11 +122,11 @@ content:
         * **Operating Systems:** Windows, Linux (Ubuntu)
         * **Programming Languages:** Python, SQL                      
         * **Markup Languages:** HTML, Markdown
-        * **Data Manipulation:** Pandas, Numpy
-        * **Data Extraction frameworks:** Selenium, BeautifulSoup, Scrapy
-        * **Databases:** MySQL, MSSQL (Preference)
+        * **Data Science Frameworks:** TensorFlow, Pandas, Numpy, Sci-kit learn, Statsmodel, Scipy
+        * **Data Extraction Frameworks:** Selenium, BeautifulSoup, Scrapy
         * **MVC**: Django, Flask
-        * **Data Visualisation frameworks:** Plotly, Seaborn, Matplotlib, Kepler.gl
+        * **Data Visualisation Frameworks:** Plotly, Seaborn, Matplotlib, Kepler.gl
+        * **Data Preprocessing:** Regex, Levenstein Distance
 
 
 # Footer
