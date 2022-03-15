@@ -104,7 +104,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: top-right
         title:  Keele University
         sub_title: MSc. in Cognitive Psychology
         caption: 2018 - 2019
