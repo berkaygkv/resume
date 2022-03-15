@@ -89,7 +89,7 @@ content:
         sub_title: Data Scientist
         caption: 2021 April - Present
       - layout: top-left
-        title: Freelancer in Upwork
+        title: Freelancer (Upwork)
         sub_title: Python Programmer / Data Analyst
         caption: 2020 February - 2021 April
         link: https://bit.ly/2TmVWfc
@@ -119,8 +119,16 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-        * **Programming Languages:** Python, SQL                      * **Markup Languages:** HTML, Markdown
+        * **Operating Systems:** Windows, Linux (Ubuntu)
+        * **Programming Languages:** Python, SQL                      
+        * **Markup Languages:** HTML, Markdown
         * **Data Manipulation:** Pandas, Numpy
+        * **Data Extraction frameworks:** Selenium, BeautifulSoup, Scrapy
+        * **Databases:** MySQL, MSSQL (Preference)
+        * **MVC**: Django, Flask
+        * **Data Visualisation frameworks:** Plotly, Seaborn, Matplotlib, Kepler.gl
+
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
