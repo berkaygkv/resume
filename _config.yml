@@ -52,8 +52,8 @@ linkedin_username: berkaygkv
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/linkedin profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a junior data scientist who has a huge interest in integrating programming skills into machine learning problems using <mark>Python</mark> and Python-based frameworks like 
-  <mark>Pandas</mark>, <mark>Tensorflow</mark> and more. I love implementing Abstraction to my work when I code.
+  I'm a data scientist who has a huge interest in integrating programming skills into machine learning problems using <mark>Python</mark> and Python-based frameworks like 
+  <mark>Pandas</mark>, <mark>Tensorflow</mark> and more. I love implementing Abstraction principles to my work when I code.
   
   
   I'm also interested in MLOps/Engineering stuff, trying to get a broader sense of how to implement technologies like Docker, Kubernetes, Airflow to ML projects. I have 1 year 
@@ -81,6 +81,24 @@ content:
           - I have assembled LSTM network into an Autoencoder architecture with customizable layer parameters,
           - The data is being smoothed by using Kalman Filter in the preprocessing phase to make the model more sensitive to trend changes,
           - All of the required operations for preprocessing, training and prediction can be handled simply by creating a Keras inherited Python instance. 
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Price Monitoring System
+        # link: https://nbviewer.org/github/berkaygkv/LSTM_Autoencoder/blob/master/anomaly_detection_nb.ipynb
+        # link_text: Nbviewer notebook
+        # additional_links:
+        #   - title:  GitHub Link
+        #     icon: fab fa-github
+        #     url: https://github.com/berkaygkv/LSTM_Autoencoder 
+        quote: >
+          An end-to-end ML pipeline that; monitors/stores new coming used car ads, predicts the market price using XGBoost, and alerts when a significantly lower price encountered. 
+        description: | # this will include new lines to allow paragraphs
+          - The used car market website was being monitored 7/24, 
+          - New coming ads were stored into SQLite database,
+          - An XGBoost model was built to predict prices,
+          - Once the script detects a new ad with a significantly low value, it sends a notification through Slack Channel with the corresponding ad link and info,
+          - The whole project is hosted in Heroku Platfrom
   - title: Experience
     layout: list
     content:
@@ -127,6 +145,8 @@ content:
         * **MVC**: Django, Flask
         * **Data Visualisation Frameworks:** Plotly, Seaborn, Matplotlib, Kepler.gl
         * **Data Preprocessing:** Regex, Levenstein Distance
+        * **Clouds:** AWS, Azure, Heroku
+        * **Containerization Platform:** Docker
 
 
 # Footer
