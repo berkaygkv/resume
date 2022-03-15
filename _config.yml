@@ -85,7 +85,7 @@ content:
     layout: list
     content:
       - layout: right
-        title: Vestel
+        title: Vestel Trade Co.
         sub_title: Data Scientist
         caption: 2021 April - Present
         # link: Link to company (optional)
