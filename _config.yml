@@ -117,10 +117,10 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
   - title: Skills
-    layout: list
+    layout: text
     content: | # this will include new lines to allow paragraphs
-        * Programming Languages: Python, SQL
-        * Data Manipulation: Pandas, Numpy
+        * **Programming Languages:** Python, SQL
+        * **Data Manipulation:** Pandas, Numpy
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
