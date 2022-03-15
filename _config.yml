@@ -161,7 +161,7 @@ content:
         * **MVC**: Django, Flask
         * **Data Visualisation Frameworks:** Plotly, Seaborn, Matplotlib, Kepler.gl
         * **Data Preprocessing:** Regex, Levenstein Distance
-        * **Clouds:** AWS, Azure, Heroku
+        * **Cloud:** AWS, Azure, Heroku
         * **Containerization Platform:** Docker
 
 
