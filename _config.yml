@@ -50,7 +50,7 @@ linkedin_username: berkaygkv
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/linkedin profile.jpg
+about_profile_image: images/AvatarMaker.png
 about_content: | # this will include new lines to allow paragraphs
   I'm a data scientist who has a huge interest in integrating programming skills into machine learning problems using <mark>Python</mark> and Python-based frameworks like 
   <mark>Pandas</mark>, <mark>Tensorflow</mark> and more. I love implementing Abstraction principles to my work when I code.
