@@ -84,40 +84,22 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Price Monitoring System
-        # link: https://nbviewer.org/github/berkaygkv/LSTM_Autoencoder/blob/master/anomaly_detection_nb.ipynb
-        # link_text: Nbviewer notebook
-        # additional_links:
-        #   - title:  GitHub Link
-        #     icon: fab fa-github
-        #     url: https://github.com/berkaygkv/LSTM_Autoencoder 
+        title: E-commerce Purchase Prediction Model
         quote: >
-          An end-to-end ML pipeline that; monitors/stores new coming used car ads, predicts the market price using XGBoost, and alerts when a significantly lower price, than the predicted value, encountered. 
+          
         description: | # this will include new lines to allow paragraphs
-          - The used car market website was being monitored 7/24, 
-          - New coming ads were stored into SQLite database,
-          - An XGBoost model was built to predict prices,
-          - A notification system was build using Slack API to send notification once an ad with significantly lower price is detected,
-          - The whole project is hosted on Heroku Platfrom.
-      - layout: left
-        border:   # Value of `weak` will display a weak border below this item. # Any 
-        title: Custom-made Data Science Toolbox
-        link: https://pypi.org/project/vdst-toolbox/
-        link_text: PyPi Package
-        additional_links:
-          - title:  GitHub Link
-            icon: fab fa-github
-            url: https://github.com/berkaygkv/vdst-toolbox
-        quote: >
-          Custom-made Data Science Toolbox Python Package dedicated to Vestel Team 
-        description: | # this will include new lines to allow paragraphs
-          - Very simple project tailored to meet the Team's specific needs,
-          - A PyPi Package can be installed using pip,
-          - The toolbox contains Radar Chart Drawer useful especially for clustered data and a Descriptive Analysis tool, 
-          - More tools will be added.
+            Created a classification model that predicts whether a customer-product pair
+            represents a purchase or not. To improve the model's performance, I extracted unique
+            features and applied Term Frequency–Inverse Document Frequency Vectorization to
+            match customer search terms with product attributes.
+
   - title: Experience
     layout: list
     content:
+      - layout: left
+        title: Wingie Enuygun Group
+        sub_title: Data Scientist
+        caption: 2022 June - Present
       - layout: top-left
         title: Vestel Trade Co.
         sub_title: Data Scientist
@@ -127,10 +109,6 @@ content:
         sub_title: Python Programmer / Data Analyst
         caption: 2020 February - 2021 April
         link: https://bit.ly/2TmVWfc
-      - layout: left
-        title: Mentalift Consultancy
-        sub_title: Data Analyst
-        caption: 2017 September - 2018 February
         # quote: >
         #   Short description of the company (optional)
         # description: | # this will include new lines to allow paragraphs
