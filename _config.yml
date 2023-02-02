@@ -85,6 +85,11 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: E-commerce Purchase Prediction Model
+        link: https://github.com/berkaygkv/recommendation-system-case
+        additional_links:
+          - title:  GitHub Link
+            icon: fab fa-github
+            url: https://github.com/berkaygkv/recommendation-system-case
         quote: >
           
         description: | # this will include new lines to allow paragraphs
@@ -116,6 +121,10 @@ content:
   - title: Education
     layout: list
     content:
+      - layout: top-right
+        title:  Istanbul Technical University
+        sub_title: Data Science Certificate Program of Expertise
+        caption: 2021
       - layout: top-right
         title:  Keele University
         sub_title: MSc. in Cognitive Psychology
